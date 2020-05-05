@@ -1,0 +1,8 @@
+*.pyc
+*~
+/.vscode
+__pycache__
+settings.py
+myvenv
+/static
+.DS_Store
